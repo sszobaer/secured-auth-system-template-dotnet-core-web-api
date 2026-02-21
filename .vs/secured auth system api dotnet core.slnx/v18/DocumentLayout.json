@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\secured-auth-system-template-dotnet-core-web-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ABF774-FBF6-4506-AF5A-A042CD387B4D}|Application Layer\\ApplicationLayer.csproj|d:\\secured-auth-system-template-dotnet-core-web-api\\application layer\\applicationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D8ABF774-FBF6-4506-AF5A-A042CD387B4D}|Application Layer\\ApplicationLayer.csproj|solutionrelative:application layer\\applicationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ABF774-FBF6-4506-AF5A-A042CD387B4D}|Application Layer\\Application Layer.csproj|d:\\secured-auth-system-template-dotnet-core-web-api\\application layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8ABF774-FBF6-4506-AF5A-A042CD387B4D}|Application Layer\\Application Layer.csproj|solutionrelative:application layer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8ABF774-FBF6-4506-AF5A-A042CD387B4D}|Application Layer\\Application Layer.csproj|d:\\secured-auth-system-template-dotnet-core-web-api\\application layer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D8ABF774-FBF6-4506-AF5A-A042CD387B4D}|Application Layer\\Application Layer.csproj|solutionrelative:application layer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\secured-auth-system-template-dotnet-core-web-api\\dal\\entities\\context\\authcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\context\\authcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\secured-auth-system-template-dotnet-core-web-api\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\secured-auth-system-template-dotnet-core-web-api\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\secured-auth-system-template-dotnet-core-web-api\\dal\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\Application Layer\\appsettings.json",
+              "RelativeDocumentMoniker": "Application Layer\\appsettings.json",
+              "ToolTip": "D:\\secured-auth-system-template-dotnet-core-web-api\\Application Layer\\appsettings.json",
+              "RelativeToolTip": "Application Layer\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-20T10:30:12.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\Application Layer\\Program.cs",
+              "RelativeDocumentMoniker": "Application Layer\\Program.cs",
+              "ToolTip": "D:\\secured-auth-system-template-dotnet-core-web-api\\Application Layer\\Program.cs",
+              "RelativeToolTip": "Application Layer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T10:28:43.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthContext.cs",
+              "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\Entities\\Context\\AuthContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Context\\AuthContext.cs",
+              "ToolTip": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\Entities\\Context\\AuthContext.cs",
+              "RelativeToolTip": "DAL\\Entities\\Context\\AuthContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T10:23:55.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationLayer.csproj",
+              "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\Application Layer\\ApplicationLayer.csproj",
+              "RelativeDocumentMoniker": "Application Layer\\ApplicationLayer.csproj",
+              "ToolTip": "D:\\secured-auth-system-template-dotnet-core-web-api\\Application Layer\\ApplicationLayer.csproj",
+              "RelativeToolTip": "Application Layer\\ApplicationLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-20T10:21:15.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BLL",
+              "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\BLL\\BLL.csproj",
+              "RelativeDocumentMoniker": "BLL\\BLL.csproj",
+              "ToolTip": "D:\\secured-auth-system-template-dotnet-core-web-api\\BLL\\BLL.csproj",
+              "RelativeToolTip": "BLL\\BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-20T10:15:51.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DAL",
+              "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-20T09:55:31.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\Entities\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Models\\User.cs",
+              "ToolTip": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\Entities\\Models\\User.cs",
+              "RelativeToolTip": "DAL\\Entities\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T09:55:24.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

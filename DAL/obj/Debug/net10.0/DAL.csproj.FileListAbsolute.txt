@@ -1,0 +1,15 @@
+D:\secured-auth-system-template-dotnet-core-web-api\DAL\bin\Debug\net10.0\DAL.deps.json
+D:\secured-auth-system-template-dotnet-core-web-api\DAL\bin\Debug\net10.0\DAL.runtimeconfig.json
+D:\secured-auth-system-template-dotnet-core-web-api\DAL\bin\Debug\net10.0\DAL.dll
+D:\secured-auth-system-template-dotnet-core-web-api\DAL\bin\Debug\net10.0\DAL.pdb
+D:\secured-auth-system-template-dotnet-core-web-api\DAL\obj\Debug\net10.0\DAL.csproj.AssemblyReference.cache
+D:\secured-auth-system-template-dotnet-core-web-api\DAL\obj\Debug\net10.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\secured-auth-system-template-dotnet-core-web-api\DAL\obj\Debug\net10.0\DAL.AssemblyInfoInputs.cache
+D:\secured-auth-system-template-dotnet-core-web-api\DAL\obj\Debug\net10.0\DAL.AssemblyInfo.cs
+D:\secured-auth-system-template-dotnet-core-web-api\DAL\obj\Debug\net10.0\DAL.csproj.CoreCompileInputs.cache
+D:\secured-auth-system-template-dotnet-core-web-api\DAL\obj\Debug\net10.0\DAL.sourcelink.json
+D:\secured-auth-system-template-dotnet-core-web-api\DAL\obj\Debug\net10.0\DAL.dll
+D:\secured-auth-system-template-dotnet-core-web-api\DAL\obj\Debug\net10.0\refint\DAL.dll
+D:\secured-auth-system-template-dotnet-core-web-api\DAL\obj\Debug\net10.0\DAL.pdb
+D:\secured-auth-system-template-dotnet-core-web-api\DAL\obj\Debug\net10.0\DAL.genruntimeconfig.cache
+D:\secured-auth-system-template-dotnet-core-web-api\DAL\obj\Debug\net10.0\ref\DAL.dll

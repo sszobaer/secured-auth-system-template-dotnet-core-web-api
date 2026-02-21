@@ -1,0 +1,16 @@
+D:\secured-auth-system-template-dotnet-core-web-api\BLL\bin\Debug\net10.0\BLL.deps.json
+D:\secured-auth-system-template-dotnet-core-web-api\BLL\bin\Debug\net10.0\BLL.dll
+D:\secured-auth-system-template-dotnet-core-web-api\BLL\bin\Debug\net10.0\BLL.pdb
+D:\secured-auth-system-template-dotnet-core-web-api\BLL\bin\Debug\net10.0\DAL.dll
+D:\secured-auth-system-template-dotnet-core-web-api\BLL\bin\Debug\net10.0\DAL.pdb
+D:\secured-auth-system-template-dotnet-core-web-api\BLL\obj\Debug\net10.0\BLL.csproj.AssemblyReference.cache
+D:\secured-auth-system-template-dotnet-core-web-api\BLL\obj\Debug\net10.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\secured-auth-system-template-dotnet-core-web-api\BLL\obj\Debug\net10.0\BLL.AssemblyInfoInputs.cache
+D:\secured-auth-system-template-dotnet-core-web-api\BLL\obj\Debug\net10.0\BLL.AssemblyInfo.cs
+D:\secured-auth-system-template-dotnet-core-web-api\BLL\obj\Debug\net10.0\BLL.csproj.CoreCompileInputs.cache
+D:\secured-auth-system-template-dotnet-core-web-api\BLL\obj\Debug\net10.0\BLL.sourcelink.json
+D:\secured-auth-system-template-dotnet-core-web-api\BLL\obj\Debug\net10.0\BLL.csproj.Up2Date
+D:\secured-auth-system-template-dotnet-core-web-api\BLL\obj\Debug\net10.0\BLL.dll
+D:\secured-auth-system-template-dotnet-core-web-api\BLL\obj\Debug\net10.0\refint\BLL.dll
+D:\secured-auth-system-template-dotnet-core-web-api\BLL\obj\Debug\net10.0\BLL.pdb
+D:\secured-auth-system-template-dotnet-core-web-api\BLL\obj\Debug\net10.0\ref\BLL.dll

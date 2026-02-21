@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "API.Controllers.UserRoleController",
+    "Method": "All",
+    "RelativePath": "role/all",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.UserRoleController",
+    "Method": "Create",
+    "RelativePath": "role/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "role",
+        "Type": "BLL.DTOs.RoleDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
