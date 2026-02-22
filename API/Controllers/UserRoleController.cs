@@ -2,6 +2,7 @@
 using BLL.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore.Storage.Json;
 
 namespace API.Controllers
 {
@@ -30,8 +31,24 @@ namespace API.Controllers
                 return Ok(data);
             }
         }
+        [HttpGet("{id}")]
+        public IActionResult GetById(Guid id)
+        {
+            var data = this.service.GetRoleById(id);
+            if (data == null)
+            {
+                return NotFound(new
+                {
+                    message = "No role found with the given id"
+                });
+            }
+            else
+            {
+                return Ok(data);
+            }
+        }
         [HttpPost("create")]
-        public IActionResult Create(RoleDTO role)
+        public IActionResult Create(CreateRoleDTO role)
         {
             var data = this.service.CreateRole(role);
             if (data != null)
@@ -45,6 +62,12 @@ namespace API.Controllers
                     message = "Failed to create role"
                 });
             }
+        }
+        [HttpPut("{RoleId}")]
+        public IActionResult Update([FromBody]CreateRoleDTO role, Guid RoleId)
+        {
+            var updateData = this.service.UpdateRole(role, RoleId);
+            return Ok(updateData);
         }
     }
 }

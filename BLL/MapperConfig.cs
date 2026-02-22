@@ -11,7 +11,8 @@ namespace BLL
     {
         static MapperConfiguration cfg = new MapperConfiguration(c =>
         {
-            c.CreateMap<UserRole, RoleDTO>().ReverseMap();
+            c.CreateMap<UserRole, CreateRoleDTO>().ReverseMap();
+            c.CreateMap<UserRole, ResponseRoleDTO>().ReverseMap();
         });
         public static Mapper GetMapper()
         {

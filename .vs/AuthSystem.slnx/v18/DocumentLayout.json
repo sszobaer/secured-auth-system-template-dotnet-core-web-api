@@ -3,44 +3,52 @@
   "WorkspaceRootPath": "D:\\secured-auth-system-template-dotnet-core-web-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\secured-auth-system-template-dotnet-core-web-api\\bll\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\secured-auth-system-template-dotnet-core-web-api\\bll\\dtos\\roleuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\roleuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\secured-auth-system-template-dotnet-core-web-api\\bll\\services\\userroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\secured-auth-system-template-dotnet-core-web-api\\dal\\entities\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\secured-auth-system-template-dotnet-core-web-api\\dal\\repos\\rolerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\rolerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|d:\\secured-auth-system-template-dotnet-core-web-api\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\secured-auth-system-template-dotnet-core-web-api\\dal\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|d:\\secured-auth-system-template-dotnet-core-web-api\\api\\controllers\\userrolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\controllers\\userrolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\secured-auth-system-template-dotnet-core-web-api\\bll\\dtos\\roleuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\roleuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\secured-auth-system-template-dotnet-core-web-api\\bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\secured-auth-system-template-dotnet-core-web-api\\bll\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\secured-auth-system-template-dotnet-core-web-api\\bll\\services\\userroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\secured-auth-system-template-dotnet-core-web-api\\bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\mapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\secured-auth-system-template-dotnet-core-web-api\\dal\\entities\\context\\authcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\context\\authcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\secured-auth-system-template-dotnet-core-web-api\\dal\\entities\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\secured-auth-system-template-dotnet-core-web-api\\dal\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\secured-auth-system-template-dotnet-core-web-api\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\secured-auth-system-template-dotnet-core-web-api\\dal\\repos\\rolerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\rolerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\secured-auth-system-template-dotnet-core-web-api\\dal\\interfaces\\irole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\secured-auth-system-template-dotnet-core-web-api\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\secured-auth-system-template-dotnet-core-web-api\\bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5875EBB1-01BE-2D17-3613-D0BAD09CBB40}|BLL\\BLL.csproj|d:\\secured-auth-system-template-dotnet-core-web-api\\bll\\bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -65,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|d:\\secured-auth-system-template-dotnet-core-web-api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{CBFA08EA-AECE-205F-7B85-326FD0B81BAD}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|d:\\secured-auth-system-template-dotnet-core-web-api\\dal\\entities\\context\\authcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12357D34-2A02-1ECD-BC6C-D84ADDC1A72E}|DAL\\DAL.csproj|solutionrelative:dal\\entities\\context\\authcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,163 +82,46 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DAL.csproj",
-              "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\DAL.csproj",
-              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
-              "ToolTip": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\DAL.csproj",
-              "RelativeToolTip": "DAL\\DAL.csproj",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-20T11:09:18.627Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\API\\Program.cs",
-              "RelativeDocumentMoniker": "API\\Program.cs",
-              "ToolTip": "D:\\secured-auth-system-template-dotnet-core-web-api\\API\\Program.cs",
-              "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T11:12:05.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MapperConfig.cs",
-              "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\BLL\\MapperConfig.cs",
-              "RelativeDocumentMoniker": "BLL\\MapperConfig.cs",
-              "ToolTip": "D:\\secured-auth-system-template-dotnet-core-web-api\\BLL\\MapperConfig.cs",
-              "RelativeToolTip": "BLL\\MapperConfig.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T16:27:15.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RoleUserDTO.cs",
-              "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\BLL\\DTOs\\RoleUserDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOs\\RoleUserDTO.cs",
-              "ToolTip": "D:\\secured-auth-system-template-dotnet-core-web-api\\BLL\\DTOs\\RoleUserDTO.cs",
-              "RelativeToolTip": "BLL\\DTOs\\RoleUserDTO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvwsAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T16:33:57.097Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "RoleRepo.cs",
-              "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\Repos\\RoleRepo.cs",
-              "RelativeDocumentMoniker": "DAL\\Repos\\RoleRepo.cs",
-              "ToolTip": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\Repos\\RoleRepo.cs",
-              "RelativeToolTip": "DAL\\Repos\\RoleRepo.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAA7wB8AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T16:44:37.391Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RoleDTO.cs",
-              "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\BLL\\DTOs\\RoleDTO.cs",
-              "RelativeDocumentMoniker": "BLL\\DTOs\\RoleDTO.cs",
-              "ToolTip": "D:\\secured-auth-system-template-dotnet-core-web-api\\BLL\\DTOs\\RoleDTO.cs",
-              "RelativeToolTip": "BLL\\DTOs\\RoleDTO.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T16:32:23.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\Entities\\Models\\User.cs",
-              "RelativeDocumentMoniker": "DAL\\Entities\\Models\\User.cs",
-              "ToolTip": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\Entities\\Models\\User.cs",
-              "RelativeToolTip": "DAL\\Entities\\Models\\User.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAA3wCIAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T11:10:02.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserRole.cs",
-              "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\Entities\\Models\\UserRole.cs",
-              "RelativeDocumentMoniker": "DAL\\Entities\\Models\\UserRole.cs",
-              "ToolTip": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\Entities\\Models\\UserRole.cs",
-              "RelativeToolTip": "DAL\\Entities\\Models\\UserRole.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAADwvxUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T11:10:05.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "UserRoleService.cs",
               "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\BLL\\Services\\UserRoleService.cs",
               "RelativeDocumentMoniker": "BLL\\Services\\UserRoleService.cs",
               "ToolTip": "D:\\secured-auth-system-template-dotnet-core-web-api\\BLL\\Services\\UserRoleService.cs",
               "RelativeToolTip": "BLL\\Services\\UserRoleService.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAWwCAAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswDUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-21T17:00:20.527Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DataAccessFactory.cs",
-              "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\DataAccessFactory.cs",
-              "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
-              "ToolTip": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\DataAccessFactory.cs",
-              "RelativeToolTip": "DAL\\DataAccessFactory.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBMAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "RoleDTO.cs",
+              "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\BLL\\DTOs\\RoleDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\RoleDTO.cs",
+              "ToolTip": "D:\\secured-auth-system-template-dotnet-core-web-api\\BLL\\DTOs\\RoleDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\RoleDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T16:52:14.737Z",
+              "WhenOpened": "2026-02-21T16:32:23.953Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserRoleController.cs",
-              "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\API\\Controllers\\UserRoleController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\UserRoleController.cs",
-              "ToolTip": "D:\\secured-auth-system-template-dotnet-core-web-api\\API\\Controllers\\UserRoleController.cs",
-              "RelativeToolTip": "API\\Controllers\\UserRoleController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAcwDEAAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "RoleUserDTO.cs",
+              "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\BLL\\DTOs\\RoleUserDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\RoleUserDTO.cs",
+              "ToolTip": "D:\\secured-auth-system-template-dotnet-core-web-api\\BLL\\DTOs\\RoleUserDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\RoleUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T17:47:06.824Z",
+              "WhenOpened": "2026-02-21T16:33:57.097Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IRole.cs",
-              "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\Interfaces\\IRole.cs",
-              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRole.cs",
-              "ToolTip": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\Interfaces\\IRole.cs",
-              "RelativeToolTip": "DAL\\Interfaces\\IRole.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAD4vwoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-21T16:37:03.46Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "UserDTO.cs",
               "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\BLL\\DTOs\\UserDTO.cs",
               "RelativeDocumentMoniker": "BLL\\DTOs\\UserDTO.cs",
@@ -251,7 +134,136 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRoleController.cs",
+              "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\API\\Controllers\\UserRoleController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UserRoleController.cs",
+              "ToolTip": "D:\\secured-auth-system-template-dotnet-core-web-api\\API\\Controllers\\UserRoleController.cs",
+              "RelativeToolTip": "API\\Controllers\\UserRoleController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAwwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T17:47:06.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "D:\\secured-auth-system-template-dotnet-core-web-api\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T11:12:05.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MapperConfig.cs",
+              "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\BLL\\MapperConfig.cs",
+              "RelativeDocumentMoniker": "BLL\\MapperConfig.cs",
+              "ToolTip": "D:\\secured-auth-system-template-dotnet-core-web-api\\BLL\\MapperConfig.cs",
+              "RelativeToolTip": "BLL\\MapperConfig.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T16:27:15.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthContext.cs",
+              "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\Entities\\Context\\AuthContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Context\\AuthContext.cs",
+              "ToolTip": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\Entities\\Context\\AuthContext.cs",
+              "RelativeToolTip": "DAL\\Entities\\Context\\AuthContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T11:09:56.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\Entities\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Models\\UserRole.cs",
+              "ToolTip": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\Entities\\Models\\UserRole.cs",
+              "RelativeToolTip": "DAL\\Entities\\Models\\UserRole.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T11:10:05.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\Entities\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\Entities\\Models\\User.cs",
+              "ToolTip": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\Entities\\Models\\User.cs",
+              "RelativeToolTip": "DAL\\Entities\\Models\\User.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T11:10:02.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoleRepo.cs",
+              "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\Repos\\RoleRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\RoleRepo.cs",
+              "ToolTip": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\Repos\\RoleRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\RoleRepo.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAwwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T16:44:37.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRole.cs",
+              "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\Interfaces\\IRole.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRole.cs",
+              "ToolTip": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\Interfaces\\IRole.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRole.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T16:37:03.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccessFactory.cs",
+              "ToolTip": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\DataAccessFactory.cs",
+              "RelativeToolTip": "DAL\\DataAccessFactory.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-21T16:52:14.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "DAL.csproj",
+              "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-20T11:09:18.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "BLL.csproj",
               "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\BLL\\BLL.csproj",
               "RelativeDocumentMoniker": "BLL\\BLL.csproj",
@@ -259,12 +271,11 @@
               "RelativeToolTip": "BLL\\BLL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-20T16:56:36.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T16:56:36.027Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\API\\appsettings.json",
               "RelativeDocumentMoniker": "API\\appsettings.json",
@@ -272,25 +283,11 @@
               "RelativeToolTip": "API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-20T11:12:10.079Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T11:12:10.079Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AuthContext.cs",
-              "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\Entities\\Context\\AuthContext.cs",
-              "RelativeDocumentMoniker": "DAL\\Entities\\Context\\AuthContext.cs",
-              "ToolTip": "D:\\secured-auth-system-template-dotnet-core-web-api\\DAL\\Entities\\Context\\AuthContext.cs",
-              "RelativeToolTip": "DAL\\Entities\\Context\\AuthContext.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T11:09:56.677Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "API.csproj",
               "DocumentMoniker": "D:\\secured-auth-system-template-dotnet-core-web-api\\API\\API.csproj",
               "RelativeDocumentMoniker": "API\\API.csproj",
@@ -298,8 +295,7 @@
               "RelativeToolTip": "API\\API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-20T21:15:54.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T21:15:54.883Z"
             }
           ]
         }

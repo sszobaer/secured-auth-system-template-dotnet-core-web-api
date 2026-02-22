@@ -33,11 +33,14 @@ namespace DAL.Repos
             return role;
         }
 
-        public virtual UserRole UpdateRole(UserRole role, Guid RoleId)
+        public virtual UserRole UpdateRole(UserRole role, Guid roleId)
         {
-            var existingRole = authContext.UserRoles.Find(RoleId);
+            var existingRole = authContext.UserRoles.Find(roleId);
             if (existingRole == null) return null;
-            authContext.Entry(existingRole).CurrentValues.SetValues(role);
+
+           
+            existingRole.RoleName = role.RoleName;
+
             authContext.SaveChanges();
             return existingRole;
         }

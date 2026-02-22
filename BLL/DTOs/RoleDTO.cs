@@ -5,8 +5,15 @@ using System.Text;
 
 namespace BLL.DTOs
 {
-    public class RoleDTO
+    public class CreateRoleDTO
     {
         public string RoleName { get; set; } 
     }
+
+    public class ResponseRoleDTO
+    {
+        public Guid RoleId { get; set; }
+        public string RoleName { get; set; }
+    }
+
 }

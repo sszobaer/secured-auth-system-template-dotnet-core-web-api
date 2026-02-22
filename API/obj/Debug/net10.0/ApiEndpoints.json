@@ -1,6 +1,43 @@
 [
   {
     "ContainingType": "API.Controllers.UserRoleController",
+    "Method": "GetById",
+    "RelativePath": "role/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.UserRoleController",
+    "Method": "Update",
+    "RelativePath": "role/{RoleId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "role",
+        "Type": "BLL.DTOs.CreateRoleDTO",
+        "IsRequired": true
+      },
+      {
+        "Name": "RoleId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.UserRoleController",
     "Method": "All",
     "RelativePath": "role/all",
     "HttpMethod": "GET",
@@ -19,7 +56,7 @@
     "Parameters": [
       {
         "Name": "role",
-        "Type": "BLL.DTOs.RoleDTO",
+        "Type": "BLL.DTOs.CreateRoleDTO",
         "IsRequired": true
       }
     ],
